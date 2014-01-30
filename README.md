@@ -1,14 +1,11 @@
 # collective-intelligence
 
-A Clojure library designed to ... well, that part is up to you.
+Some Clojure-fun with examples and exercises from
+["Programming Collective Intelligence"](http://shop.oreilly.com/product/9780596529321.do).
 
-## Usage
-
-FIXME
+It's half-baked and messy.
 
 ## License
-
-Copyright © 2014 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
